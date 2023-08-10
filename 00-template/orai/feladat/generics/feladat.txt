@@ -1,0 +1,4 @@
+Készítsd el egy stack megvalósítását bármilyen elemre. A stack a következő parancsokat ismeri:
+- POP : visszaadja a legutolsó elemet és kiveszi az elemek közül
+- PUSH: Új elemet rak a saját elemei végére
+- PEEK: visszaadja a legutolsó elemet, de nem veszi ki azu elemei közül
